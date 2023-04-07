@@ -1,0 +1,14 @@
+Classification accuracy is 98.648649 %
+Classification recall is 97.222222 %
+
+
+Classification accuracy is 89.189189 %
+Classification recall is 82.111111 %
+
+
+RF luego del gridsearch
+RandomForestClassifier(bootstrap=False, max_depth=30, max_features=25,
+                       min_samples_leaf=3, min_samples_split=12,
+                       n_estimators=60)
+Classification accuracy is 91.891892 %
+Classification recall is 86.222222 %

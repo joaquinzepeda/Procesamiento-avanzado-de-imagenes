@@ -1,0 +1,7 @@
+
+
+
+
+RF:
+Classification accuracy is 94.594595 %
+Classification recall is 94.594595 %

@@ -1,0 +1,10 @@
+SVM:
+Classification accuracy is 97.297297 %
+Classification recall is 94.444444 %
+
+RF:
+Classification accuracy is 85.135135 %
+Classification recall is 76.666667 %
+
+Classification accuracy is 86.486486 %
+Classification recall is 78.432432 %
